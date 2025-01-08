@@ -80,18 +80,18 @@ This project provides actionable insights for:
 
 ## 💡 **Future Directions**
 1.	**Enhanced Feature Engineering**:
-   - Incorporate advanced metrics like Player Impact Estimate (PIE) or Real Plus-Minus (RPM).
+Incorporate advanced metrics like Player Impact Estimate (PIE) or Real Plus-Minus (RPM).
 2.	**Predictive Analytics**:
-   - Use player archetypes to predict team success or evaluate trade scenarios.
+Use player archetypes to predict team success or evaluate trade scenarios.
 3.	**Interactive Visualizations**:
-   - Develop dashboards to explore player tiers and rankings dynamically.
+Develop dashboards to explore player tiers and rankings dynamically.
 4.	**Real-Time Analysis**:
-   - Integrate live game data to provide real-time insights for coaches and analysts.
+Integrate live game data to provide real-time insights for coaches and analysts.
      
 ---
 
 ## 🔗 **Portfolio & Contact**
 
 This project is part of my Data Science Portfolio, showcasing my expertise in sports analytics and machine learning. For inquiries or collaborations, feel free to contact me:
-	•	Email: shayan.raja123@gmail.com
-	•	LinkedIn: https://www.linkedin.com/in/shayanraja
+- Email: shayan.raja123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shayanraja
