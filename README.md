@@ -94,4 +94,4 @@ This project provides actionable insights for:
 
 This project is part of my Data Science Portfolio, showcasing my expertise in sports analytics and machine learning. For inquiries or collaborations, feel free to contact me:
 	•	Email: shayan.raja123@gmail.com
-	•	LinkedIn: 
+	•	LinkedIn: https://www.linkedin.com/in/shayanraja
